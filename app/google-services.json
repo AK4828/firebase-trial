@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "161164465738",
+    "firebase_url": "https://firedroid-3da79.firebaseio.com",
+    "project_id": "firedroid-3da79",
+    "storage_bucket": "firedroid-3da79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161164465738:android:09c99ecde81b6320",
+        "android_client_info": {
+          "package_name": "com.posquity.firebase_research"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161164465738-skbljk6ikg9k7p5sjfij3d3chdco700d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC9dxotLBhRqRyud3GYJIE9cxHFr306_8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
